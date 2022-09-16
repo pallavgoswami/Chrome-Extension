@@ -1,2 +1,2 @@
 # Chrome-Extension
-Dad Jokes chrome extension.
+All Chrome Extensions.
